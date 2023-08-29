@@ -1,6 +1,7 @@
 blinker
 click
 colorama
+cloudinary
 Flask
 Flask-SQLAlchemy
 greenlet
